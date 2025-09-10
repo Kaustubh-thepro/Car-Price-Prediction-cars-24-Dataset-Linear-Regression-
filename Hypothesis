@@ -1,0 +1,47 @@
+1. Year vs Price
+
+H₀ (Null): Car manufacturing year has no significant effect on price.
+
+H₁ (Alt): Newer cars (recent years) are priced higher than older cars.
+
+Conclusion: The regression line shows an upward trend → newer cars are more expensive, confirming H₁.
+
+2. Distance vs Price
+
+H₀: Distance driven has no effect on car price.
+
+H₁: Cars with higher mileage (more distance) are priced lower.
+
+Conclusion: The regression line slopes downward → higher mileage reduces price, supporting H₁.
+
+3. Ownership vs Price
+
+H₀: Number of owners does not affect car price.
+
+H₁: Cars with more previous owners are priced lower.
+
+Conclusion: The regression line slopes downward as ownership count increases → cars with fewer owners retain higher prices, supporting H₁.
+
+4. Fuel Type vs Price
+
+H₀: Fuel type does not influence price.
+
+H₁: Fuel type has a significant impact on price.
+
+Conclusion: Boxplots show Diesel cars have higher median prices, Petrol is moderate, while CNG and LPG are lower → supports H₁.
+
+5. Drive Type vs Price
+
+H₀: Drive type has no effect on car price.
+
+H₁: Automatic cars are priced higher than manual cars.
+
+Conclusion: Boxplot shows Automatic cars have higher prices than Manual, supporting H₁.
+
+6. Car Type vs Price
+
+H₀: Car body type does not affect price.
+
+H₁: Premium car types (SUVs, Luxury cars) are priced higher than hatchbacks and sedans.
+
+Conclusion: Boxplot shows SUVs and luxury cars have higher prices than hatchbacks and sedans → supports H₁.
